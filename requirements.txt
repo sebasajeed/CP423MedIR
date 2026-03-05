@@ -1,0 +1,11 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+torchaudio
+sentence_transformers
+pyannote.audio
+groq
+soundfile
+dotenv
+supabase
+fastapi
+uvicorn

@@ -1,0 +1,14 @@
+# Ignore everything by default
+*
+
+# Keep gitignore itself and env template
+!.gitignore
+!.env_example
+!requirements.txt
+
+# Keep only backend project code directory
+!project/
+!project/**
+
+project/__pycache__/
+*.pyc

@@ -1,0 +1,17 @@
+[
+  {
+    "query": "What symptoms did the patient report?",
+    "role_filter": "PATIENT",
+    "relevant_contents": [
+      "I've been having headaches for three days.",
+      "I also feel nauseous in the morning."
+    ]
+  },
+  {
+    "query": "What medication questions were asked?",
+    "role_filter": "CLINICIAN",
+    "relevant_contents": [
+      "Are you taking any medications right now?"
+    ]
+  }
+]
